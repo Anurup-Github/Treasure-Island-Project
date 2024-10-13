@@ -1,3 +1,6 @@
+# Diagram uploaded from ASCII ART
+
+
 print('''
 *******************************************************************************
           |                   |                  |                     |
@@ -20,6 +23,11 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 /______/______/______/______/______/______/______/______/______/______/_____ /
 *******************************************************************************
 ''')
+
+
+
+# Code for TREASURE HUNTING
+
 print("Welcome to Treasure Island.")
 print("Your mission is to find the treasure.")
 direction = input('You\'re at a cross road. Where do you want to go?'
